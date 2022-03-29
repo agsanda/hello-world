@@ -23,7 +23,7 @@
 	
 	.shadowbox {
 		 width: 15em;
- 		 border: 2px dotted;
+ 		 border: dotted;
  		 box-shadow: 8px 8px 5px #444;
  		 width:  200px;
  		 height: 200px; 
