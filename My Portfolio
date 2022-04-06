@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Laurea Assignment</title>
+  
+ <link rel="stylesheet" type="text/css" href="https://github.com/agsanda/hello-world/blob/main/style.css">
+			
+</head>
+
+<body> 
+	
+<h1> My Portfolio </h1>
+
+<div class ="topcorner">
+ <a href="https://agsanda.github.io/hello-world/"> Home </a>	
+	
+</div>
+
+<div id="container">
+    <img src="YellowTaxi.jpg" alt="A yellow taxi in New York" />
+
+</div>
+
+<div class="backgroundImage">
+
+<h2>  About projects and interests: </h2>
+
+<p> I have directed and produced many different theatre productions, such as: </p>
+
+<ul>
+	<li> Agatha Christie's Love From a Stranger </li>
+	<li> Hercule Poirot and the Case of the Careless Client </li>
+     	<li> Variety Show </li>
+
+</ul>
+
+
+</div>
+	
+</body>
+	
+</html>
