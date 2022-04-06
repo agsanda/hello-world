@@ -33,6 +33,14 @@
   		position:absolute;
   		top:10;
   		left:15;
+		padding: 10;
+}
+
+	.topcorner home{
+  		position:absolute;
+  		top:10;
+  		left:15;
+		padding: 10;
 }
 
 	label {
