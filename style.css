@@ -11,10 +11,11 @@
 	h1 {
 		color: #0d0d0d;
 		font-family: arial, sans-serif;
-		font-size: 24px;
+		font-size: 48px;
 		font-weight: bold;
 		margin-top: 10px;
 		margin-bottom: 10px;
+		text-shadow: 4px 4px #ff0000
 	}
 	}
 	
@@ -35,6 +36,8 @@
  		 box-shadow: 8px 8px 5px #444;
  		 width:  200px;
  		 height: 200px; 
+		 margin-top: 10px;
+		 margin-bottom: 10px;
 }
 		
  	.topcorner{
