@@ -1,15 +1,17 @@
 
 	body {
-		background-color: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
-		#secondpage{ background-color: coral; }
+		background-color: LightBlue;
+	
 	}
 	
 	body {
 		color: black;
+		font-family: "Helvetica", Sans-Serif;
+		font-size: 16px;
 	}
 	
 	h1 {
-		color: #0d0d0d;
+		color: DarkViolet ;
 		font-family: arial, sans-serif;
 		font-size: 48px;
 		font-weight: bold;
@@ -20,9 +22,9 @@
 	}
 	
 	p {
-		color: DarkBlue;
+		color: Black;
 		font-size: 14px;
-		background-color: lavender;
+		background-color: LightCyan;
 	}
 	
 	ul {
@@ -34,10 +36,9 @@
  		 border: dotted;
 	         padding: 12px 16px;
  		 box-shadow: 8px 8px 5px #444;
- 		 width:  200px;
- 		 height: 200px; 
+ 		 width:  150px;
+ 		 height: 150px; 
 		 margin-top: 10px;
-		 margin-bottom: 10px;
 }
 		
  	.topcorner{
@@ -59,9 +60,6 @@
    		padding-right: 10px;
    		font-size: 1rem;
 }
-
-	.backgroundImage {
-		background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
-}                
+              
 	
 </style>
