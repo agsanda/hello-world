@@ -1,5 +1,5 @@
 body {
-		background-color: LightBlue;
+		background-color: AliceBlue;
 	
 	}
 	
@@ -7,24 +7,24 @@ body {
 		color: black;
 		font-family: "Helvetica", Sans-Serif;
 		font-size: 16px;
+	
 	}
 	
 	h1 {
-		color: DarkViolet ;
+		color: Black ;
 		font-family: arial, sans-serif;
 		font-size: 48px;
 		font-weight: bold;
 		margin-top: 20px;
 		margin-bottom: 10px;
-		text-shadow: 4px 4px Red;
+		text-shadow: 4px 4px CornflowerBlue;
 	}
 	
 	
 	p {
 		color: Black;
-		font-size: 14px;
 		font-family: "Helvetica", Sans-Serif;
-
+		font-size: 16px;			
 	}
 	
 	
@@ -41,8 +41,6 @@ body {
 		margin-bottom: 20px;
 		
 }
-
-
-              
+            
 	
 </style>
