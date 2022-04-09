@@ -1,5 +1,5 @@
-	body {
-		background-color: LightBlue;
+body {
+		background-color: AliceBlue ;
 	
 	}
 	
@@ -10,21 +10,20 @@
 	}
 	
 	h1 {
-		color: DarkViolet ;
+		color: Black ;
 		font-family: arial, sans-serif;
 		font-size: 48px;
 		font-weight: bold;
-		margin-top: 30px;
+		margin-top: 20px;
 		margin-bottom: 10px;
-		text-shadow: 4px 4px Red;
+		text-shadow: 4px 4px CornflowerBlue;
 	}
 	
 	
 	p {
 		color: Black;
-		font-size: 14px;
-		background-color: LightCyan;
-		padding: 12px 16px;
+		font-family: "Helvetica", Sans-Serif;
+		font-size: 16px;		
 	}
 	
 	ul {
@@ -44,15 +43,32 @@
  	.topcorner{
   		background-color: DodgerBlue;
   		border: none;
+ 	 	color: white;
  		padding: 10px 14px;
  	 	font-size: 16px;
  		cursor: pointer;
   		top:10;
   		left:15;
 		margin-top: 3px;
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 		
 }
+
+	.aboutMyself{
+  		background-color: BlueViolet;
+		padding: 10px 14px;		
+}
+
+	.workExperience{
+  		background-color: DarkCyan;
+		padding: 10px 14px;		
+}
+
+	.Skills{
+  		background-color: Aquamarine;	
+		padding: 10px 14px;	
+}
+
 
 	label {
    		padding-right: 10px;
