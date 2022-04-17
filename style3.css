@@ -17,7 +17,7 @@ html, body {
         ul li {
             padding-right: 10px;
             line-height: 1.6;
-            list-style: square;
+            
         }
 
         h3 {
@@ -51,7 +51,7 @@ html, body {
         }
 
         div#navigation li {
-            list-style: square;
+            list-style: none;
         }
 
         div#extra {
@@ -86,7 +86,7 @@ html, body {
             float: right;
             clear: right;
             width: 250px;
-            list-style: square
+          
         }
 
         div#footer {
