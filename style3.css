@@ -46,15 +46,19 @@ html, body {
             color: #006;
         }
 
-        div#navigation {
+        div#skills {
             background: #a689bd;
         }
 
-        div#navigation li {
+        div#skills li {
             list-style: none;
         }
 
-        div#extra {
+	div#hobbies li {
+            list-style: none;
+        }
+
+        div#hobbies {
             background: #b980ab;
         }
 
@@ -77,12 +81,12 @@ html, body {
             width: 400px;
         }
 
-        div#navigation {
+        div#skills {
             float: right;
             width: 250px;
         }
 
-        div#extra {
+        div#hobbies {
             float: right;
             clear: right;
             width: 250px;
