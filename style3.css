@@ -86,6 +86,7 @@ html, body {
             float: right;
             clear: right;
             width: 250px;
+            list-style: square
         }
 
         div#footer {
