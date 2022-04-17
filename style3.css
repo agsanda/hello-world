@@ -17,6 +17,7 @@ html, body {
         ul li {
             padding-right: 10px;
             line-height: 1.6;
+            list-style: square;
         }
 
         h3 {
